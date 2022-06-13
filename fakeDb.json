@@ -1,0 +1,52 @@
+{
+  "tarinat": [
+    {
+      "id": 1,
+      "title": "Listan juttu 1"
+    },
+    {
+      "id": 2,
+      "title": "Listan juttu 2"
+    },
+    {
+      "id": 3,
+      "title": "Listan juttu 3"
+    },
+    {
+      "id": 4,
+      "title": "Listan juttu 4"
+    }
+  ],
+
+  "birds": [
+    {
+      "id": 1,
+      "name": "Harakka"
+    },
+    {
+      "id": 2,
+      "name": "Pääskynen"
+    },
+    {
+      "name": "Västäräkki",
+      "id": 3
+    },
+    {
+      "name": "Talitintti",
+      "id": 4
+    },
+    {
+      "name": "Korppi",
+      "id": 5
+    }
+  ],
+  
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Super",
+      "lastName": "Admin",
+      "email": "admin@example.com"
+    }
+  ]
+}

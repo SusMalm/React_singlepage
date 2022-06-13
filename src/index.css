@@ -1,0 +1,116 @@
+/* Sivuston perusasetukset */
+body {
+  background-color: #0099FF;
+  padding: 20px;
+}
+
+h1, h2  {
+  font-family: arial, sans-serif;
+}
+
+p, ul, li {
+  font-family: arial, sans-serif;
+  font-size: 14pt;
+}
+
+/* header */
+ul.top-header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  border-radius: 5px;
+}
+
+ul.top-header {
+  background-color: #22256e;
+  padding: 0;
+  border: 2px solid white;
+  border-radius: 5px; 
+}
+
+ul.top-header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 5px; 
+}
+
+/* content */
+.content {
+  /*padding: 20px;*/
+  background-color: White;
+  border-radius: 5px; 
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.content li {
+  margin-bottom: 10px;
+}
+
+.logo {
+  background-color: #0099FF;
+}
+  
+.active {
+  background-color: #0099FF !important;
+  border-radius: 5px; 
+}
+
+/* Logot gitHub */
+.sample-icon{
+  width: 64px;
+  height: 64px;
+}
+
+.oticon {
+  width: 64px;
+  height: 64px;  
+}
+  
+.oticon:hover path{
+  fill: red;
+}
+
+/* Suomi kartan popup*/
+.sample-vaaka{ 
+  width: 195px;
+  height: 135px;
+  border-radius: 5px; 
+}
+
+.sample-pysty{
+  width: 135px;
+  height: 195px;
+}
+
+/*kuvakarusellin tausta*/
+.karuselli{
+  background-color: #0099FF;
+}
+
+/*etusivun kuvat*/
+.sample-kuva{
+  width: 300px;
+  height: 180px;
+  border-radius: 5px; 
+  display: inline-block;
+}
+
+.kirjoitus{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
